@@ -1,2 +1,2 @@
-# react-Js
+# reactJs
 Simple reactJs Projects While Learning
